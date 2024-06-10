@@ -1,0 +1,39 @@
+# Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environments
+venv/
+.env/
+
+# Django files
+*.log
+*.pot
+*.mo
+
+# Database files
+*.sqlite3
+*.db
+
+# Debug and temp files
+*.log
+debug.log
+*.swp
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Django static files (optional, usually handled via Django settings)
+static/
+media/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+.env
