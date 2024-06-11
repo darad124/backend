@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-16a!x1^c*0!a#ck3y@1x)d(8(oe7+qbo^0+k#)c9fdoayiy$mv
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['your-app-name.onrender.com', 'localhost', '127.0.0.1', '52.41.36.82', '54.191.253.12', '44.226.122.3']
+
 
 
 # Application definition
@@ -157,3 +158,5 @@ CACHES = {
 }
 
 print(f"BREVO_API_KEY: {BREVO_API_KEY}, ADMIN_EMAIL: {ADMIN_EMAIL}")
+
+

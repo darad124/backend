@@ -1,1 +1,2 @@
-web: gunicorn myproject.wsgi
+gunicorn election_system.wsgi:application
+
