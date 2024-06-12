@@ -13,9 +13,7 @@ venv/
 *.pot
 *.mo
 
-# Database files
-*.sqlite3
-*.db
+
 
 # Debug and temp files
 *.log
