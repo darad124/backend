@@ -192,4 +192,3 @@ This file structure includes the core directories for the election system and vo
 
 The main functionality of the backend includes handling file uploads, processing student data from CSV or Excel files, managing elections, and storing voting records.
 ```
-
