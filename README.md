@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/electioneer.git
+   git clone https://github.com/darad124/electioneer.git
    cd electioneer
    ```
 
@@ -80,7 +80,7 @@ Before you begin, ensure you have met the following requirements:
    python manage.py runserver
    ```
 
-   The application will be available at `http://127.0.0.1:8000`.
+   The application will be available at `https://backend-5dou.onrender.com`.
 
 ## API Endpoints
 
@@ -191,4 +191,3 @@ This file structure includes the core directories for the election system and vo
 ## Usage
 
 The main functionality of the backend includes handling file uploads, processing student data from CSV or Excel files, managing elections, and storing voting records.
-```
